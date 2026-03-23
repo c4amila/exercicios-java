@@ -64,8 +64,8 @@ A resolução dos exercícios serão adicionados gradualmente ao repositório.
 | 08 | 🟩 |
 | 09 | 🟩 |
 | 10 | 🟩 |
-| 11 | 🟦 |
-| 12 | 🟦 |
+| 11 | 🟩 |
+| 12 | 🟩 |
 | 13 | 🟦 |
 | 14 | 🟦 |
 | 15 | 🟦 |
