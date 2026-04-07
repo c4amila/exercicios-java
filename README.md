@@ -66,12 +66,12 @@ A resolução dos exercícios serão adicionados gradualmente ao repositório.
 | 10 | 🟩 |
 | 11 | 🟩 |
 | 12 | 🟩 |
-| 13 | 🟦 |
-| 14 | 🟦 |
-| 15 | 🟦 |
-| 16 | 🟦 |
-| 17 | 🟦 |
-| 18 | 🟦 |
+| 13 | 🟩 |
+| 14 | 🟩 |
+| 15 | 🟩 |
+| 16 | 🟩 |
+| 17 | 🟩 |
+| 18 | 🟩 |
 | 19 | 🟦 |
 | 20 | 🟦 |
 
