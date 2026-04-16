@@ -72,8 +72,8 @@ A resolução dos exercícios serão adicionados gradualmente ao repositório.
 | 16 | 🟩 |
 | 17 | 🟩 |
 | 18 | 🟩 |
-| 19 | 🟦 |
-| 20 | 🟦 |
+| 19 | 🟩 |
+| 20 | 🟩 |
 
 ### Lista 3
 | Exercício | Status |
