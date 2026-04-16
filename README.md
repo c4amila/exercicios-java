@@ -78,11 +78,11 @@ A resolução dos exercícios serão adicionados gradualmente ao repositório.
 ### Lista 3
 | Exercício | Status |
 |:-------:|:-------:|
-| 01 | 🟦 |
-| 02 | 🟦 |
-| 03 | 🟦 |
-| 04 | 🟦 |
-| 05 | 🟦 |
+| 01 | 🟩 |
+| 02 | 🟩 |
+| 03 | 🟩 |
+| 04 | 🟩 |
+| 05 | 🟩 |
 | 06 | 🟦 |
 | 07 | 🟦 |
 | 08 | 🟦 |
